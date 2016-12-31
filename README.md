@@ -1,2 +1,2 @@
 # algorithmic_toolbox
-coursera's algorithmic toolbox
+coursera's Algorithmic Toolbox
